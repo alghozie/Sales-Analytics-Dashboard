@@ -102,6 +102,7 @@ Dashboard dapat dilihat langsung di Looker Studio dengan fitur:
 ---
 
 ## Tampilan Dashboard
+<img width="1436" height="1079" alt="Cuplikan layar 2025-11-17 031145" src="https://github.com/user-attachments/assets/7d1b8959-143e-4f3c-a969-770d0f13e144" />
 
 > *https://lookerstudio.google.com/reporting/fc5f738a-f62f-4f19-af69-ff137dc03d8c*
 
